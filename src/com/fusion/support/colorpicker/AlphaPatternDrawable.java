@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.arrow.support.colorpicker;
+package com.fusion.support.colorpicker;
 
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;

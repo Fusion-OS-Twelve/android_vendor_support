@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.arrow.support.preferences;
+package com.fusion.support.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -23,7 +23,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.Switch;
 
-import com.arrow.support.R;
+import com.fusion.support.R;
 
 /**
  * A custom preference that provides inline switch toggle. It has a mandatory field for title, and
